@@ -1,0 +1,14 @@
+{
+  "name": "ytdownloader",
+  "version": "1.0.0",
+  "description": "YoutubeDownloader",
+  "main": "index.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "author": "YashTheRedDevil",
+  "license": "ISC",
+  "devDependencies": {
+    "electron": "^11.3.0"
+  }
+}
